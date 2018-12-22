@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Allseas Dutch Payment</string>
+    <string name="basic_wage">Basic Wage</string>
+    <string name="loyal_bonus">Loyality Bonus</string>
+    <string name="off_allowance">Offshore Allowance</string>
+    <string name="pen_med">Pension and Medical</string>
+    <string name="lib">LIB</string>
+    <string name="total">Total</string>
+    <string name="calcu">Calculate</string>
+    <string name="next">Next</string>
+    <string name="day_off">Days Offshore?</string>
+    <string name="total_pay_4_days">Total Pay For This Trip pre. Social Security!!!</string>
+
+</resources>

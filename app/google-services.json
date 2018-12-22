@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197639847127",
+    "firebase_url": "https://listing-487c6.firebaseio.com",
+    "project_id": "listing-487c6",
+    "storage_bucket": "listing-487c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197639847127:android:9cc5ed794202cff1",
+        "android_client_info": {
+          "package_name": "com.example.irvin.allseasdutchpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197639847127-otjguh305kis8p1mlm7jh28il3fh3f1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irvin.allseasdutchpayment",
+            "certificate_hash": "04496ae6bb0d8c6a25f4b3c1a7cdf38837368322"
+          }
+        },
+        {
+          "client_id": "197639847127-kg56geo72rg8nlret4c6tkqa3ee0cdtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIj83we5lcn_LThZI1OuSbe1bHbWYsTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197639847127-kg56geo72rg8nlret4c6tkqa3ee0cdtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
